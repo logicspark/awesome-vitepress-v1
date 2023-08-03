@@ -58,7 +58,7 @@
 
 
 ## :white_check_mark: License
-
+Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark/awesome-vitepress-v1/edit/main/LICENSE) for more information.
 
 ## :pray: Acknowledgement
 
