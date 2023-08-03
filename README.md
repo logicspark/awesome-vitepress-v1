@@ -6,6 +6,8 @@
 - [Resources](#books-resources)
   - [Official Resources](#official-resources)
   - [Tutorials](#tutorials)
+    - [Articles](#articles)
+    - [Videos](#videos)
   - [Related Awesome Lists](#related-awesome-lists)
 - [Plugins](#electric_plug-plugins)
   - [Official Plugins](#official-plugins)
@@ -27,6 +29,10 @@
 ### Official Resources
 
 ### Tutorials
+
+#### Articles
+
+#### Videos
 
 ### Related Awesome Lists
 
