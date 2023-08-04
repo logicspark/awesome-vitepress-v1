@@ -33,6 +33,12 @@
 ### Tutorials
 
 #### Articles
+- [How to Build a Modern Documentation Site with VitePress](https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/)
+- [Write Beautiful Documentation Quickly with VitePress](https://learnvue.co/articles/write-docs-with-vitepress)
+- Create a Blog with Vitepress
+  - [Part 1 - Create a Blog with Vitepress](https://medium.com/@jeremy3/create-a-blog-with-vitepress-c4b1c203d688)
+  - [Part 2 - Create components in Vitepress using Tailwind](https://medium.com/@jeremy3/create-components-in-vitepress-using-tailwind-a4eee4b4ec41)
+- [Build a blog with Vitepress and Vue.js](https://blog.logrocket.com/build-blog-vitepress-vue-js/)
 
 #### Videos
 
