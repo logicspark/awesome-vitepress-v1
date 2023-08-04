@@ -29,7 +29,7 @@
 
 ### Tutorials
 
-#### Articles
+> #### Articles
 - [How to Build a Modern Documentation Site with VitePress](https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/)
 - [Write Beautiful Documentation Quickly with VitePress](https://learnvue.co/articles/write-docs-with-vitepress)
 - Create a Blog with Vitepress
@@ -37,7 +37,7 @@
   - [Part 2 - Create components in Vitepress using Tailwind](https://medium.com/@jeremy3/create-components-in-vitepress-using-tailwind-a4eee4b4ec41)
 - [Build a blog with Vitepress and Vue.js](https://blog.logrocket.com/build-blog-vitepress-vue-js/)
 
-#### Videos
+> #### Videos
 - [VitePress The New Vite Static Site Generator Tutorial by Erik](https://www.youtube.com/watch?v=y9jKmNPmfPE)
   1. [2:33](https://www.youtube.com/watch?v=y9jKmNPmfPE&t=153s) VitePress Introduction
   2. [4:33](https://www.youtube.com/watch?v=y9jKmNPmfPE&t=273s) Updating the Configuration
