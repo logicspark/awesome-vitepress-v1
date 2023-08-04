@@ -66,7 +66,25 @@
 > Pending for official plugins
 
 ### Community Plugins
-
+- [PWA](https://github.com/vite-pwa/vitepress) - Zero-config PWA Plugin for VitePress
+- [Comment with Giscus](https://github.com/T-miracle/vitepress-plugin-comment-with-giscus) - vitepress comment plugin based on [Giscus](https://giscus.app/)
+- [Google Analytics](https://github.com/ZhongxuYang/vitepress-plugin-google-analytics/) - Google Analytics Plugin for VitePress
+- [Local Search with Flexsearch](https://github.com/emersonbottero/vitepress-plugin-search) - Local search to your documentation site using [Flexsearch](https://github.com/nextapps-de/flexsearch)
+- [Diagramming and Charting with Mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid) - Diagramming and charting tool using [Mermaid](https://mermaid.js.org/)
+- Sidebar
+  - [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar) - Automatically configures and manages the sidebar of your page with simple settings
+  - [vitepress-plugin-autobar](https://github.com/luciozhang/vitepress-plugin-autobar) - Generator sidebar based on file and directory structure
+  - - [vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories
+  - [vitepress-sidebar-builder](https://github.com/stuyk/vitepress-sidebar-builder) - A recursive sidebar builder
+  - [vitepress-plugin-auto-sidebar](https://github.com/JonathanSchndr/vitepress-plugin-auto-sidebar) - Generate the sidebar through the folder structure
+- [Progress Bar with NProgress](https://github.com/ZhongxuYang/vitepress-plugin-nprogress/) - Display slim progress bar like on YouTube, Medium, etc with [NProgress](https://github.com/rstacruz/nprogress)
+- [Static Code Samples with Twoslash](https://github.com/wagmi-dev/vitepress-plugin-shiki-twoslash) - Display code samples on markdown using [Shiki Twoslash](https://github.com/shikijs/twoslash)
+- [Timeline for Markdown](https://github.com/HanochMa/vitepress-markdown-timeline) - Display vertical timeline in Markdown
+- [Live Coding on Browser](https://github.com/jerrywu001/vitepress-plugin-sandpack) - Live coding using [Sandpack](https://github.com/jerrywu001/sandpack-vue3)
+- [Collapsable Code Blocks](https://github.com/T-miracle/vitepress-plugin-codeblocks-fold) - Collapse long code blocks in Markdown
+- [View Image](https://github.com/T-miracle/vitepress-plugin-image-viewer) - Image viewer base on [Viewer.js](https://github.com/fengyuanchen/viewerjs)
+- [Zip Build Folder](https://github.com/manchan4869/vitepress-plugin-compression) - Automatically package the build output folder using 7za.exe
+- [Export to PDF](https://github.com/condorheroblog/vitepress-export-pdf) - Allows you to export your sites to a PDF file
 
 ## :art: Themes
 
