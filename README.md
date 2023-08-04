@@ -113,10 +113,10 @@
 - [Vue.js Website](https://vuejs.org) - Official Vue documentation at `vuejs.org`
 
 ### Projects
-- 
+- [Vite Ruby](https://github.com/ElMassimo/vitepress-theme) - Vite Ruby docs based on the official Vue doc theme
+
 
 ## :heart: VitePress Contributors
-
 
 ## :white_check_mark: License
 Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark/awesome-vitepress-v1/edit/main/LICENSE) for more information.
