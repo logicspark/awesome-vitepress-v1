@@ -55,10 +55,13 @@
   5. [14:50](https://www.youtube.com/watch?v=GXr8FOssWqM&t=890s) VitePress Plugin
   6. [23:25](https://www.youtube.com/watch?v=GXr8FOssWqM&t=1405s) VitePress Client Side
 
-### Related Awesome Lists
-
+### Related Awesome List
+- [Vue 3](https://github.com/vuesomedev/awesome-vue-3)
+- [Vite](https://github.com/vitejs/awesome-vite)
+- [VuePress 2](https://github.com/vuepress/awesome-vuepress/blob/main/v2.md)
 
 ## :electric_plug: Plugins
+
 
 ### Official Plugins
 
