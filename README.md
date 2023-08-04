@@ -38,6 +38,22 @@
 - [Build a blog with Vitepress and Vue.js](https://blog.logrocket.com/build-blog-vitepress-vue-js/)
 
 #### Videos
+- [VitePress The New Vite Static Site Generator Tutorial by Erik](https://www.youtube.com/watch?v=y9jKmNPmfPE)
+  1. [2:33](https://www.youtube.com/watch?v=y9jKmNPmfPE&t=153s) VitePress Introduction
+  2. [4:33](https://www.youtube.com/watch?v=y9jKmNPmfPE&t=273s) Updating the Configuration
+  3. [6:37](https://www.youtube.com/watch?v=y9jKmNPmfPE&t=397s) Updating Themes with Vue 3
+- [Easy Documentation with VitePress by LearnVue](https://www.youtube.com/watch?v=jRBQpjmwH1c)
+  1. [0:15](https://www.youtube.com/watch?v=jRBQpjmwH1c&t=15s) Advantages of VitePress
+  2. [1:06](https://www.youtube.com/watch?v=jRBQpjmwH1c&t=66s) Getting Started
+  3. [3:00](https://www.youtube.com/watch?v=jRBQpjmwH1c&t=180s) Routes & Links
+  4. [6:05](https://www.youtube.com/watch?v=jRBQpjmwH1c&t=375s) Built-In Markdown
+- [Deep dive into VitePress by Kia King Ishii](https://www.youtube.com/watch?v=GXr8FOssWqM)
+  1. [1:40](https://www.youtube.com/watch?v=GXr8FOssWqM&t=100s) What is VitePress
+  2. [4:10](https://www.youtube.com/watch?v=GXr8FOssWqM&t=250s) Basic Configuarion
+  3. [7:15](https://www.youtube.com/watch?v=GXr8FOssWqM&t=435s) How VitePress works
+  4. [9:25](https://www.youtube.com/watch?v=GXr8FOssWqM&t=565s) Core Components
+  5. [14:50](https://www.youtube.com/watch?v=GXr8FOssWqM&t=890s) VitePress Plugin
+  6. [23:25](https://www.youtube.com/watch?v=GXr8FOssWqM&t=1405s) VitePress Client Side
 
 ### Related Awesome Lists
 
