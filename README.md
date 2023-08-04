@@ -85,6 +85,7 @@
 - [View Image](https://github.com/T-miracle/vitepress-plugin-image-viewer) - Image viewer base on [Viewer.js](https://github.com/fengyuanchen/viewerjs)
 - [Zip Build Folder](https://github.com/manchan4869/vitepress-plugin-compression) - Automatically package the build output folder using 7za.exe
 - [Export to PDF](https://github.com/condorheroblog/vitepress-export-pdf) - Allows you to export your sites to a PDF file
+- [Preview Demo](https://github.com/flingyp/vitepress-demo-preview) - Preview demo and show source codes
 
 ## :art: Themes
 
