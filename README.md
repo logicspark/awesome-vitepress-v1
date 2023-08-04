@@ -86,6 +86,7 @@
 - [Zip Build Folder](https://github.com/manchan4869/vitepress-plugin-compression) - Automatically package the build output folder using 7za.exe
 - [Export to PDF](https://github.com/condorheroblog/vitepress-export-pdf) - Allows you to export your sites to a PDF file
 - [Preview Demo](https://github.com/flingyp/vitepress-demo-preview) - Preview demo and show source codes
+- [Override Default Theme](https://github.com/Dschungelabenteuer/vitepress-plugin-theme-override) - Override parts of Vitepress' default theme without the need to import it all
 
 ## :art: Themes
 
@@ -94,12 +95,25 @@
 - [Vue Theme](https://github.com/vuejs/theme) - Dedicated for `vuejs.org` and may defer from the default theme
 
 ### Community Themes
+- [vitepress-theme-demoblock](https://github.com/xinlei3166/vitepress-theme-demoblock)
+- Blog Style
+  - [sugar-blog](https://github.com/ATQQ/sugar-blog)
+  - [vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure) - Minimal
+  - [vitepress-blog-zaun](https://github.com/clark-cui/vitepress-blog-zaun) - Journal
+  - [vitepress-theme-sakura](https://github.com/flaribbit/vitepress-theme-sakura) - Sakura
+- [hexo-theme-linear](https://github.com/yysuen/hexo-theme-linear)
+- [vitepress-theme-vuetom](https://github.com/lauset/vitepress-theme-vuetom) - Flat
+- [shopware-developer-documentation-vitepress](https://github.com/shopware/developer-documentation-vitepress)
+- [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun)
 
 
 ## :card_index_dividers: Projects Using VitePress
 
 ### Official Projects
 - [Vue.js Website](https://vuejs.org) - Official Vue documentation at `vuejs.org`
+
+### Projects
+- 
 
 ## :heart: VitePress Contributors
 
