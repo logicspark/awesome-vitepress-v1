@@ -25,10 +25,7 @@
 
 ### Official Resources
 - [VitePress Github Repository](https://github.com/vuejs/vitepress)
-- [Docs - Getting Started](https://vitepress.dev/guide/getting-started)
-- [Docs - Writing](https://vitepress.dev/guide/markdown)
-- [Docs - Customization](https://vitepress.dev/guide/custom-theme)
-- [Docs - Configuration](https://vitepress.dev/reference/site-config)
+- Docs - [Getting Started](https://vitepress.dev/guide/getting-started), [Writing](https://vitepress.dev/guide/markdown), [Customization](https://vitepress.dev/guide/custom-theme), [Configuration](https://vitepress.dev/reference/site-config)
 
 ### Tutorials
 
