@@ -62,8 +62,8 @@
 
 ## :electric_plug: Plugins
 
-
 ### Official Plugins
+> Pending for official plugins
 
 ### Community Plugins
 
