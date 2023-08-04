@@ -90,12 +90,16 @@
 ## :art: Themes
 
 ### Official Themes
+- [Default Theme](https://vitepress.dev/reference/default-theme-config)
+- [Vue Theme](https://github.com/vuejs/theme) - Dedicated for `vuejs.org` and may defer from the default theme
 
 ### Community Themes
 
 
 ## :card_index_dividers: Projects Using VitePress
 
+### Official Projects
+- [Vue.js Website](https://vuejs.org) - Official Vue documentation at `vuejs.org`
 
 ## :heart: VitePress Contributors
 
