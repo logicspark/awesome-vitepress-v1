@@ -95,16 +95,16 @@
 - [Vue Theme](https://github.com/vuejs/theme) - Dedicated for `vuejs.org` and may defer from the default theme
 
 ### Community Themes
-- [vitepress-theme-demoblock](https://github.com/xinlei3166/vitepress-theme-demoblock)
+- [vitepress-theme-demoblock](https://github.com/xinlei3166/vitepress-theme-demoblock) - Based on Vitepress original theme
 - Blog Style
-  - [sugar-blog](https://github.com/ATQQ/sugar-blog)
+  - [sugar-blog](https://github.com/ATQQ/sugar-blog) - Minimalist, blog style
   - [vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure) - Minimal
   - [vitepress-blog-zaun](https://github.com/clark-cui/vitepress-blog-zaun) - Journal
   - [vitepress-theme-sakura](https://github.com/flaribbit/vitepress-theme-sakura) - Sakura
-- [hexo-theme-linear](https://github.com/yysuen/hexo-theme-linear)
+- [hexo-theme-linear](https://github.com/yysuen/hexo-theme-linear) - Clean look, blog style
 - [vitepress-theme-vuetom](https://github.com/lauset/vitepress-theme-vuetom) - Flat
 - [shopware-developer-documentation-vitepress](https://github.com/shopware/developer-documentation-vitepress)
-- [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun)
+- [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - Blog style
 
 
 ## :card_index_dividers: Projects Using VitePress
