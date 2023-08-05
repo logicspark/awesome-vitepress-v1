@@ -1,3 +1,11 @@
+
+<p align="center">
+  <br>
+  <img width="300" src="./awesome-vitepress-logo.png" alt="logo of vitepress-awesome repository">
+  <br>
+</p>
+
+
 # Awesome VitePress v1 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -134,4 +142,7 @@
 Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark/awesome-vitepress-v1/edit/main/LICENSE) for more information.
 
 ## :pray: Acknowledgement
-
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [VitePress](https://github.com/vuejs/vitepress)
+- [Vite](https://github.com/vitejs/vite)
+- [Awesome-VuePress](https://github.com/vuepress/awesome-vuepress/tree/main)
