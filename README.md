@@ -95,16 +95,16 @@
 - [Vue Theme](https://github.com/vuejs/theme) - Dedicated for `vuejs.org` and may defer from the default theme
 
 ### Community Themes
-- [vitepress-theme-demoblock](https://github.com/xinlei3166/vitepress-theme-demoblock) - Based on Vitepress original theme
+- [vitepress-theme-demoblock](https://github.com/xinlei3166/vitepress-theme-demoblock) - Based on the original Vitepress theme
 - Blog Style
-  - [sugar-blog](https://github.com/ATQQ/sugar-blog) - Minimalist, blog style
-  - [vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure) - Minimal
-  - [vitepress-blog-zaun](https://github.com/clark-cui/vitepress-blog-zaun) - Journal
-  - [vitepress-theme-sakura](https://github.com/flaribbit/vitepress-theme-sakura) - Sakura
-- [hexo-theme-linear](https://github.com/yysuen/hexo-theme-linear) - Clean look, blog style
-- [vitepress-theme-vuetom](https://github.com/lauset/vitepress-theme-vuetom) - Flat
+  - [sugar-blog](https://github.com/ATQQ/sugar-blog) - A Minimalist, blog style theme
+  - [vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure) - Minimal vitepress theme for blog
+  - [vitepress-blog-zaun](https://github.com/clark-cui/vitepress-blog-zaun) - Journal style theme
+  - [vitepress-theme-sakura](https://github.com/flaribbit/vitepress-theme-sakura) - A cute and animated blog theme for vitepress
+- [hexo-theme-linear](https://github.com/yysuen/hexo-theme-linear) - Theme with clean look, blog style
+- [vitepress-theme-vuetom](https://github.com/lauset/vitepress-theme-vuetom) - A flat vitepress theme
 - [shopware-developer-documentation-vitepress](https://github.com/shopware/developer-documentation-vitepress)
-- [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - Blog style
+- [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - A blog style theme for vitepress
 
 
 ## :card_index_dividers: Projects Using VitePress
