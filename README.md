@@ -1,7 +1,7 @@
 
 <p align="center">
   <br>
-  <img width="300" src="./awesome-vitepress-logo.png" alt="logo of vitepress-awesome repository">
+  <img width="300" src="./awesome-vitepress-logo.svg" alt="logo of vitepress-awesome repository">
   <br>
 </p>
 
