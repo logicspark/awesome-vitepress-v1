@@ -139,6 +139,7 @@ environment.
 ### Blogging Websites
 - [harlanzw.com-vitepress](https://github.com/harlan-zw/harlanzw.com-vitepress) - Personal [blog](https://harlanzw.com/) built using VitePress and TailwindCSS
 - [Charles's personal technology blog](https://blog.charles7c.top/)
+- [Code More Create](https://blog.merlin218.top/)
 
 ## :heart: VitePress Top Contributors
 [![](https://github.com/brc-dd.png?size=50)](https://github.com/brc-dd)
