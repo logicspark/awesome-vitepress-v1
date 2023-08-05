@@ -82,7 +82,7 @@
 - Sidebar
   - [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar) - Automatically configures and manages the sidebar of your page with simple settings
   - [vitepress-plugin-autobar](https://github.com/luciozhang/vitepress-plugin-autobar) - Generator sidebar based on file and directory structure
-  - - [vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories
+  - [vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories
   - [vitepress-sidebar-builder](https://github.com/stuyk/vitepress-sidebar-builder) - A recursive sidebar builder
   - [vitepress-plugin-auto-sidebar](https://github.com/JonathanSchndr/vitepress-plugin-auto-sidebar) - Generate the sidebar through the folder structure
 - [Progress Bar with NProgress](https://github.com/ZhongxuYang/vitepress-plugin-nprogress/) - Display slim progress bar like on YouTube, Medium, etc with [NProgress](https://github.com/rstacruz/nprogress)
@@ -122,7 +122,23 @@
 
 ### Projects
 - [Vite Ruby](https://github.com/ElMassimo/vitepress-theme) - Vite Ruby docs based on the official Vue doc theme
+- [StackBlitz Docs](https://github.com/stackblitz/docs) - Documentation for [StackBlitz](https://stackblitz.com/), an online development 
+- [Genshin Interactive Map](https://github.com/kongying-tavern/docs) - Kongying Tavern Genshin Interactive Map Documentation
+environment.
+- [ruabick](https://github.com/dewfall123/ruabick) - Dumi like tool
+- [Slidev](https://github.com/slidevjs/docs) - Documentation for [Slidev](https://sli.dev/), Presentation Slides for Developers
+- [MODX Revolution](https://github.com/modx-pro/Docs) - Open Source documentation for [MODX Revolution](https://modx.pro/)
+- [Rollup.js](https://github.com/rollup/rollup-docs-cn) - Documentation for [Rollup](https://rollupjs.org/), The JavaScript module bundler
+- [MTGJSON](https://github.com/mtgjson/mtgjson-website) - MTGJSON Documentation
+- [Windi CSS](https://github.com/windicss/docs) - Documentation for Windi CSS
+- [Omnivore](https://github.com/omnivore-app/docs.omnivore) - Documentation for the [Omnivore](https://omnivore.app/), an open source read-it-later solution
+- [Iconify](https://github.com/iconify/website) - Documentation for [Iconify](https://iconify.design/), over 150,000 open source vector icons in one framework
+- [Fusion UI](https://github.com/tsinghua-lau/fusion-ui) Documentation for [Fusion UI](https://tsinghua-lau.github.io/fusion-ui/), a Vue 3 component library
+- [upscale](https://github.com/Phhofm/upscale) - Website to visually compare the output created with over 600 different AI upscaling models.
 
+### Blogging Websites
+- [harlanzw.com-vitepress](https://github.com/harlan-zw/harlanzw.com-vitepress) - Personal [blog](https://harlanzw.com/) built using VitePress and TailwindCSS
+- [Charles's personal technology blog](https://blog.charles7c.top/)
 
 ## :heart: VitePress Top Contributors
 [![](https://github.com/brc-dd.png?size=50)](https://github.com/brc-dd)
