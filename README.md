@@ -116,7 +116,19 @@
 - [Vite Ruby](https://github.com/ElMassimo/vitepress-theme) - Vite Ruby docs based on the official Vue doc theme
 
 
-## :heart: VitePress Contributors
+## :heart: VitePress Top Contributors
+[![](https://github.com/brc-dd.png?size=50)](https://github.com/brc-dd)
+[![](https://github.com/yyx990803.png?size=50)](https://github.com/yyx990803)
+[![](https://github.com/kiaking.png?size=50)](https://github.com/kiaking)
+[![](https://github.com/posva.png?size=50)](https://github.com/posva)
+[![](https://github.com/zonemeen.png?size=50)](https://github.com/zonemeen)
+[![](https://github.com/antfu.png?size=50)](https://github.com/antfu)
+[![](https://github.com/userquin.png?size=50)](https://github.com/userquin)
+[![](https://github.com/CHOYSEN.png?size=50)](https://github.com/CHOYSEN)
+[![](https://github.com/meteorlxy.png?size=50)](https://github.com/meteorlxy)
+[![](https://github.com/patak-dev.png?size=50)](https://github.com/patak-dev)
+[![](https://github.com/kecrily.png?size=50)](https://github.com/kecrily)
+[![](https://github.com/bencodezen.png?size=50)](https://github.com/bencodezen)
 
 ## :white_check_mark: License
 Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark/awesome-vitepress-v1/edit/main/LICENSE) for more information.
