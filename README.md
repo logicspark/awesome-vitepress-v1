@@ -25,8 +25,9 @@
   - [Community Themes](#community-themes)
 - [Projects Using VitePress](#card_index_dividers-projects-using-vitepress)
 - [VitePress Contributors](#heart-vitepress-contributors)
+- [How to Contribute](#pray-how-to-contribute)
 - [License](#white_check_mark-license)
-- [Acknowledgement](#pray-acknowledgement)
+- [Acknowledgement](#raise_hands-acknowledgement)
 
 
 ## :books: Resources
@@ -155,10 +156,21 @@ environment.
 [![](https://github.com/kecrily.png?size=50)](https://github.com/kecrily)
 [![](https://github.com/bencodezen.png?size=50)](https://github.com/bencodezen)
 
+## :pray: How to Contribute
+Thank you for your interests in Awesome VItepress. All kinds of contributions are valuable to making Vitepress more popular!
+
+We ask that you kindly follow this simple guideline
+1. Make sure to add items in the right section or subsection!
+2. To be fair to people before you, please add your items at end.
+3. Feel free to reorganize sections or subsection as appropriate, including adding new ones or editing current ones.
+4. If you could, please provide details or documentation links to each item. Please do not add items that are invalid, public archive or not functioning.
+
+Remark: We may revise content or remove unrelated, outdated or no longer supported items.
+
 ## :white_check_mark: License
 Distributed under the MIT License. See [`LICENSE`](https://github.com/logicspark/awesome-vitepress-v1/edit/main/LICENSE) for more information.
 
-## :pray: Acknowledgement
+## :raised_hands: Acknowledgement
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [VitePress](https://github.com/vuejs/vitepress)
 - [Vite](https://github.com/vitejs/vite)
