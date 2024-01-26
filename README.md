@@ -137,6 +137,7 @@ environment.
 - [Iconify](https://github.com/iconify/website) - Documentation for [Iconify](https://iconify.design/), over 150,000 open source vector icons in one framework
 - [Fusion UI](https://github.com/tsinghua-lau/fusion-ui) Documentation for [Fusion UI](https://tsinghua-lau.github.io/fusion-ui/), a Vue 3 component library
 - [upscale](https://github.com/Phhofm/upscale) - Website to visually compare the output created with over 600 different AI upscaling models.
+- [asdf](https://asdf-vm.com) - Manage multiple runtime versions with a single CLI tool, extendable via plugins.
 
 ### Blogging Websites
 - [harlanzw.com-vitepress](https://github.com/harlan-zw/harlanzw.com-vitepress) - Personal [blog](https://harlanzw.com/) built using VitePress and TailwindCSS
