@@ -115,6 +115,7 @@
 - [shopware-developer-documentation-vitepress](https://github.com/shopware/developer-documentation-vitepress)
 - [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - A blog style theme for vitepress
 - [vitepress-theme-api](https://github.com/logicspark/vitepress-theme-api) - An API document theme for Vitepress
+- [vitepress-theme-carbon](https://github.com/brenoepics/vitepress-carbon) - A GitHub-like theme for Vitepress
 
 
 ## :card_index_dividers: Projects Using VitePress
