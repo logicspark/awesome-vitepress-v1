@@ -138,6 +138,8 @@ environment.
 - [Fusion UI](https://github.com/tsinghua-lau/fusion-ui) Documentation for [Fusion UI](https://tsinghua-lau.github.io/fusion-ui/), a Vue 3 component library
 - [upscale](https://github.com/Phhofm/upscale) - Website to visually compare the output created with over 600 different AI upscaling models.
 - [asdf](https://asdf-vm.com) - Manage multiple runtime versions with a single CLI tool, extendable via plugins.
+- [X-CMD](https://x-cmd.com) - Opensource lightweight posix script for tools (500+) management and classic command extensions.
+- [cz-git](https://github.com/Zhengqbbb/cz-git) - Interactive Commitizen CLI that generate standardized commit messages.
 
 ### Blogging Websites
 - [harlanzw.com-vitepress](https://github.com/harlan-zw/harlanzw.com-vitepress) - Personal [blog](https://harlanzw.com/) built using VitePress and TailwindCSS
