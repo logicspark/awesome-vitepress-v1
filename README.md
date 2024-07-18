@@ -75,6 +75,7 @@
 > Pending for official plugins
 
 ### Community Plugins
+- [Versioning Plugin](https://github.com/IMB11/vitepress-versioning-plugin) - Easy to setup versioning plugin for VitePress which allows versioned documentation.
 - [PWA](https://github.com/vite-pwa/vitepress) - Zero-config PWA Plugin for VitePress
 - [Comment with Giscus](https://github.com/T-miracle/vitepress-plugin-comment-with-giscus) - vitepress comment plugin based on [Giscus](https://giscus.app/)
 - [Google Analytics](https://github.com/ZhongxuYang/vitepress-plugin-google-analytics/) - Google Analytics Plugin for VitePress
