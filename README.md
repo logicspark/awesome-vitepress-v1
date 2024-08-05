@@ -116,6 +116,7 @@
 - [shopware-developer-documentation-vitepress](https://github.com/shopware/developer-documentation-vitepress)
 - [hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - A blog style theme for vitepress
 - [vitepress-theme-api](https://github.com/logicspark/vitepress-theme-api) - An API document theme for Vitepress
+- [vitepress-theme-carbon](https://github.com/brenoepics/vitepress-carbon) - A GitHub-like theme for Vitepress
 
 
 ## :card_index_dividers: Projects Using VitePress
@@ -164,7 +165,7 @@ Thank you for your interests in Awesome VItepress. All kinds of contributions ar
 
 We ask that you kindly follow this simple guideline
 1. Make sure to add items in the right section or subsection!
-2. To be fair to people before you, please add your items at end.
+2. To be fair to people before you, please add your items at the end.
 3. Feel free to reorganize sections or subsection as appropriate, including adding new ones or editing current ones.
 4. If you could, please provide details or documentation links to each item. Please do not add items that are invalid, public archive or not functioning.
 
