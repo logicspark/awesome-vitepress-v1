@@ -96,7 +96,8 @@
 - [Export to PDF](https://github.com/condorheroblog/vitepress-export-pdf) - Allows you to export your sites to a PDF file
 - [Preview Demo](https://github.com/flingyp/vitepress-demo-preview) - Preview demo and show source codes
 - [Override Default Theme](https://github.com/Dschungelabenteuer/vitepress-plugin-theme-override) - Override parts of Vitepress' default theme without the need to import it all
-
+- [lite-tree](https://github.com/zhangfisher/lite-tree) -  Easy to render tree on vitepress
+  
 ## :art: Themes
 
 ### Official Themes
