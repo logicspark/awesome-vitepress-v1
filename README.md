@@ -140,6 +140,7 @@ environment.
 - [Fusion UI](https://github.com/tsinghua-lau/fusion-ui) Documentation for [Fusion UI](https://tsinghua-lau.github.io/fusion-ui/), a Vue 3 component library
 - [upscale](https://github.com/Phhofm/upscale) - Website to visually compare the output created with over 600 different AI upscaling models.
 - [asdf](https://asdf-vm.com) - Manage multiple runtime versions with a single CLI tool, extendable via plugins.
+- [Chromatone.center](https://chromatone.center) - Visual Music Language web-site. Learn music theory with colors and improve your music practice with interactive web-apps.
 
 ### Blogging Websites
 - [harlanzw.com-vitepress](https://github.com/harlan-zw/harlanzw.com-vitepress) - Personal [blog](https://harlanzw.com/) built using VitePress and TailwindCSS
