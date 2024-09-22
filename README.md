@@ -97,7 +97,10 @@
 - [Preview Demo](https://github.com/flingyp/vitepress-demo-preview) - Preview demo and show source codes
 - [Override Default Theme](https://github.com/Dschungelabenteuer/vitepress-plugin-theme-override) - Override parts of Vitepress' default theme without the need to import it all
 - [lite-tree](https://github.com/zhangfisher/lite-tree) -  Easy to render tree on vitepress
-  
+- [Global Announcement](https://github.com/ATQQ/sugar-blog/tree/master/packages/vitepress-plugin-announcement) - Add a global announcement window
+- [Code Group Icons](https://github.com/yuyinws/vitepress-plugin-group-icons) - Enhance code blocks features
+- [RSS](https://github.com/ATQQ/sugar-blog/tree/master/packages/vitepress-plugin-rss) - Generate RSS feed for your site
+
 ## :art: Themes
 
 ### Official Themes
@@ -146,6 +149,8 @@ environment.
 - [harlanzw.com-vitepress](https://github.com/harlan-zw/harlanzw.com-vitepress) - Personal [blog](https://harlanzw.com/) built using VitePress and TailwindCSS
 - [Charles's personal blog](https://github.com/Charles7c/charles7c.github.io) - Personal technology [blog](https://blog.charles7c.top/)
 - [Code More Create](https://blog.merlin218.top/)
+- [sugar's personal blog](https://github.com/ATQQ/sugar-blog) - Personal [blog](https://sugarat.top/) and provide VitePress theme [@sugarat/theme](https://github.com/ATQQ/sugar-blog/tree/master/packages/theme)
+- [友人 A の博客](https://github.com/NIU-BIN/blog) - Personal [blog](http://niubin.site/)
 
 ## :heart: VitePress Top Contributors
 [![](https://github.com/brc-dd.png?size=50)](https://github.com/brc-dd)
