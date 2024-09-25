@@ -97,6 +97,7 @@
 - [Preview Demo](https://github.com/flingyp/vitepress-demo-preview) - Preview demo and show source codes
 - [Override Default Theme](https://github.com/Dschungelabenteuer/vitepress-plugin-theme-override) - Override parts of Vitepress' default theme without the need to import it all
 - [lite-tree](https://github.com/zhangfisher/lite-tree) -  Easy to render tree on vitepress
+- [vitepress-i18n](https://github.com/jooy2/vitepress-i18n) - VitePress i18n is a plugin for VitePress that makes it easy to translate text in the default theme and search tool
   
 ## :art: Themes
 
