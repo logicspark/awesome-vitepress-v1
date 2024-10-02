@@ -143,6 +143,7 @@ environment.
 - [asdf](https://asdf-vm.com) - Manage multiple runtime versions with a single CLI tool, extendable via plugins.
 - [Chromatone.center](https://chromatone.center) - Visual Music Language web-site. Learn music theory with colors and improve your music practice with interactive web-apps.
 - [Graffle](https://graffle.js.org) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
+- [Chukti](https://chukti.vercel.app/) - Low-Code Smart Contract Testing Library: Simple, efficient, and user-friendly with intuitive BDD syntax in plain English.
 
 ### Blogging Websites
 - [harlanzw.com-vitepress](https://github.com/harlan-zw/harlanzw.com-vitepress) - Personal [blog](https://harlanzw.com/) built using VitePress and TailwindCSS
