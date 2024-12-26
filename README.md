@@ -111,6 +111,7 @@
 ### Community Themes
 - [vitepress-theme-demoblock](https://github.com/xinlei3166/vitepress-theme-demoblock) - Based on the original Vitepress theme
 - Blog Style
+  - [vitepress-theme-mild](https://github.com/hacxy/vitepress-theme-mild) - Minimalist blog theme
   - [sugar-blog](https://github.com/ATQQ/sugar-blog) - A Minimalist, blog style theme
   - [vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure) - Minimal vitepress theme for blog
   - [vitepress-blog-zaun](https://github.com/clark-cui/vitepress-blog-zaun) - Journal style theme
