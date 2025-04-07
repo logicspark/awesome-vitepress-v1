@@ -103,6 +103,7 @@
 - [RSS](https://github.com/ATQQ/sugar-blog/tree/master/packages/vitepress-plugin-rss) - Generate RSS feed for your site
 - [vitepress-openapi](https://github.com/enzonotario/vitepress-openapi) - Generate VitePress API Documentation from OpenAPI Specification
 - [Versioning](https://github.com/IMB11/vitepress-versioning-plugin) - Add versioning support
+- [vitepress-copy-helper](https://github.com/Mtillmann/vitepress-copy-helper) - Render highly customizable Copy-buttons next to inline code spans
 
 ## :art: Themes
 
