@@ -102,6 +102,7 @@
 - [Code Group Icons](https://github.com/yuyinws/vitepress-plugin-group-icons) - Enhance code blocks features
 - [RSS](https://github.com/ATQQ/sugar-blog/tree/master/packages/vitepress-plugin-rss) - Generate RSS feed for your site
 - [Versioning](https://github.com/IMB11/vitepress-versioning-plugin) - Add versioning support
+- [vitepress-openapi](https://github.com/enzonotario/vitepress-openapi) - Generate VitePress API Documentation from OpenAPI Specification
 
 ## :art: Themes
 
@@ -155,6 +156,7 @@ environment.
 - [Code More Create](https://blog.merlin218.top/)
 - [sugar's personal blog](https://github.com/ATQQ/sugar-blog) - Personal [blog](https://sugarat.top/) and provide VitePress theme [@sugarat/theme](https://github.com/ATQQ/sugar-blog/tree/master/packages/theme)
 - [友人 A の博客](https://github.com/NIU-BIN/blog) - Personal [blog](http://niubin.site/)
+- [開源旅遊共筆](https://github.com/travel-guide-tw/travel-guide-tw.github.io/) - Open-source travel [blog](https://travel-guide-tw.github.io/), allowing users to access and contribute
 
 ## :heart: VitePress Top Contributors
 [![](https://github.com/brc-dd.png?size=50)](https://github.com/brc-dd)
