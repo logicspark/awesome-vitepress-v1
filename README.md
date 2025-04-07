@@ -101,8 +101,8 @@
 - [Global Announcement](https://github.com/ATQQ/sugar-blog/tree/master/packages/vitepress-plugin-announcement) - Add a global announcement window
 - [Code Group Icons](https://github.com/yuyinws/vitepress-plugin-group-icons) - Enhance code blocks features
 - [RSS](https://github.com/ATQQ/sugar-blog/tree/master/packages/vitepress-plugin-rss) - Generate RSS feed for your site
-- [Versioning](https://github.com/IMB11/vitepress-versioning-plugin) - Add versioning support
 - [vitepress-openapi](https://github.com/enzonotario/vitepress-openapi) - Generate VitePress API Documentation from OpenAPI Specification
+- [Versioning](https://github.com/IMB11/vitepress-versioning-plugin) - Add versioning support
 
 ## :art: Themes
 
