@@ -148,6 +148,7 @@ environment.
 - [Chromatone.center](https://chromatone.center) - Visual Music Language web-site. Learn music theory with colors and improve your music practice with interactive web-apps.
 - [Graffle](https://graffle.js.org) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [Chukti](https://chukti.vercel.app/) - Low-Code Smart Contract Testing Library: Simple, efficient, and user-friendly with intuitive BDD syntax in plain English.
+- [Vue PDF Viewer](https://docs.vue-pdf-viewer.dev/) - Documentation for Vue PDF Viewer, a powerful and flexible PDF Viewer component for Vue.js.
 
 ### Blogging Websites
 - [harlanzw.com-vitepress](https://github.com/harlan-zw/harlanzw.com-vitepress) - Personal [blog](https://harlanzw.com/) built using VitePress and TailwindCSS
