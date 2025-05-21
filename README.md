@@ -131,6 +131,7 @@
 - [Vue.js Website](https://vuejs.org) - Official Vue documentation at `vuejs.org`
 
 ### Projects
+- [Cap](https://capjs.js.org) - Modern, lightning-quick PoW captcha
 - [Vite Ruby](https://github.com/ElMassimo/vitepress-theme) - Vite Ruby docs based on the official Vue doc theme
 - [StackBlitz Docs](https://github.com/stackblitz/docs) - Documentation for [StackBlitz](https://stackblitz.com/), an online development 
 - [Genshin Interactive Map](https://github.com/kongying-tavern/docs) - Kongying Tavern Genshin Interactive Map Documentation
